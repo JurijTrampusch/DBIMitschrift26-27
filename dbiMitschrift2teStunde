@@ -1,0 +1,40 @@
+CAP Theroem=
+Consistent
+Availibility 
+Partition Tolerance
+
+REligionsanmeldung
+4 tables
+
+Schuüler mit id 
+
+Religion mit id
+
+Schuljhar mit id unnd von bis
+
+Auswahl mit Schüler id Relgion id und Schuljahr id; PK schüler id und schuljar id
+
+
+in JSON
+dbRelJeSchuljahr({
+    id,
+    name: Max,
+    Rel: röm.-kath,
+    Schuljahre[{schuljahr: 26/27, religion: röm}],
+})
+
+
+schuelerjeRel({
+    id: gani,
+    religion: röm kath,
+    lehrer: gundi, 
+    schueler[
+        {id, name, klasse},
+        {id, name, klasse}   
+    ],
+    termine: [
+    { wochentag: Mo, stunde: 3, raum: B203 },
+    { wochentag: Do, stunde: 5, raum: B203 }
+  ],
+    schuljahr
+})

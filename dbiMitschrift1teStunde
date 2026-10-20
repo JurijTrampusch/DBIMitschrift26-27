@@ -1,0 +1,40 @@
+entity=  Jurij vom Entitätstyp Schüler
+Entitytype = z.b SChüler 
+
+Values Attribute zwischen Nodes in Entitys in einem Graph 
+
+BSP
+
+	60km	
+Wien -------- St Pölten
+ |
+ | Distanz 50km
+ |
+Wiener Neustadt
+
+Entities haben Verbindungen und diese VErbindungen haben Values
+die einzelnen Entities haben auch Attribute
+
+GraphenDB
+Graphql
+
+
+
+Graphen zeigen Ähnlichkeiten 
+z.B. Amazon welche Produkte werden zusammen gekauft
+
+BSP switch
+wer eine switch kauft kauft oft auch Spiel und COntroller und über zwei Schritte Transportboxen
+Oft ein Faktor von 1000 Leuten kaufen 900 ein Spiel etc
+
+Prüfungsrelevant ist das es gerichtet und nicht gerichtet graphen
+
+Distanz ist immer gleich von WIen nach St Pölten
+
+nicht gerichtet ist von Controller anders als von der Switch
+
+Wichtig: Wir haben Entitäten welche in Beziehung zu anderen stehen.
+aber nicht alle zueinander. 
+
+
+
